@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+* {
+  margin:0;
+  padding:0;
+}
+
+body {
+    background-color: lightblue;
+    font-family: 'Oswald', sans-serif;
+    
+
+}
+
+h1 {
+    color: #ffade3;
+    margin:0 auto;
+    text-align: center;
+    font-size: 2em;
+}
+
+iframe {
+width: 100%;
+height: 60vh;
+}
+
+.links {
+  text-align:center;
+  font size: 1.5em;
+
+}
+.links a {
+color: #ffade3;
+}
+
+
+
+#instagram {
+
+}
+
+.gallery {
+  margin-top: 20px;
+}
